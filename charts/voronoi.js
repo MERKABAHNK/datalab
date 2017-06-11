@@ -8,7 +8,7 @@
 	var chart = raw.chart()
 		.title('Voronoi Tessellation')
 		.description(
-            "It creates the minimum area around each point defined by two variables. When applied to a scatterplot, it is useful to show the distance between points. <br/>Based on <a href='http://bl.ocks.org/mbostock/4060366'>http://bl.ocks.org/mbostock/4060366</a>")
+            "It creates the minimum area around each point defined by two variables. When applied to a scatterplot, it is useful to show the distance between points.")
 		.thumbnail("imgs/voronoi.png")
 		.category('Dispersion')
 		.model(points)

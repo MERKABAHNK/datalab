@@ -57,7 +57,7 @@
         .title('Streamgraph')
         .thumbnail("imgs/streamgraph.png")
         .description(
-            "For continuous data such as time series, a streamgraph can be used in place of stacked bars. <br/>Based on <a href='http://bl.ocks.org/mbostock/4060954'>http://bl.ocks.org/mbostock/4060954</a>")
+            "For continuous data such as time series, a streamgraph can be used in place of stacked bars.")
         .category('Time series')
         .model(stream)
 

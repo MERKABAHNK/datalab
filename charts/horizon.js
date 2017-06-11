@@ -34,7 +34,7 @@
         .model(model)
         .title('Horizon graph')
         .thumbnail("imgs/horizon.png")
-        .description("Horizon charts combine position and color to reduce vertical space.<br/><br/>Based on <a href='http://bl.ocks.org/mbostock/1483226'>http://bl.ocks.org/mbostock/1483226</a>")
+        .description("Horizon charts combine position and color to reduce vertical space.")
         .category('Time series')
 
     var width = chart.number()

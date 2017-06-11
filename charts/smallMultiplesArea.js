@@ -48,7 +48,7 @@
     var chart = raw.chart()
         .title('Area graph')
         .thumbnail("imgs/smallMultiples.png")
-        .description("A small multiple is a series of small similar graphics or charts, allowing them to be easily compared.<br/>Based on <a href='http://bl.ocks.org/mbostock/9490313'>http://bl.ocks.org/mbostock/9490313</a>")
+        .description("A small multiple is a series of small similar graphics or charts, allowing them to be easily compared.")
         .category('Time series')
         .model(stream)
 

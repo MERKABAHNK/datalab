@@ -48,7 +48,7 @@
     var chart = raw.chart()
         .title('Clustered Force Layout')
         .description(
-            "Nested circles allow to represent hierarchies and compare values. This visualization is particularly effective to show the proportion between elements through their areas and their position inside a hierarchical structure. <br/>Based on <a href='http://bl.ocks.org/mbostock/7882658'>http://bl.ocks.org/mbostock/7882658</a>")
+            "Nested circles allow to represent hierarchies and compare values. This visualization is particularly effective to show the proportion between elements through their areas and their position inside a hierarchical structure. <br/></a>")
         .thumbnail("imgs/clusterForce.png")
         .category('Hierarchy (weighted)')
         .model(nodes)

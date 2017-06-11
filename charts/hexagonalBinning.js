@@ -9,7 +9,7 @@
 	var chart = raw.chart()
 		.title('Hexagonal Binning')
 		.description(
-			"Visually clusters the most populated areas on a scatterplot. Useful to make more readable a scatterplot when plotting hundreds of points.<br/>Based on <a href='http://bl.ocks.org/mbostock/4248145'>http://bl.ocks.org/mbostock/4248145</a>")
+			"Visually clusters the most populated areas on a scatterplot. Useful to make more readable a scatterplot when plotting hundreds of points.<br/></a>")
 		.thumbnail("imgs/binning.png")
 	    .category('Dispersion')
 		.model(points)
