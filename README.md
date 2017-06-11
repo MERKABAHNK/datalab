@@ -1,38 +1,17 @@
-![raw header](imgs/raw_header.jpg)
+![raw header](imgs/ninja-new.png)
 
 ## About
 
-**RAW** is an open web tool to create custom vector-based visualizations on top of the amazing [d3.js](https://github.com/mbostock/d3) library by [Mike Bostock](http://bost.ocks.org/mike/).
-It has been developed by [DensityDesign Research Lab](http://www.densitydesign.org/) ([Politecnico di Milano](http://www.polimi.it/)) and [Calibro](http://calib.ro/), and sustained through a corporate stewardship by [ContactLab](http://contactlab.com/it/).
+**DATA LAB** is an open web tool to create custom vector-based visualizations on top of the amazing [d3.js](https://github.com/mbostock/d3) library by [Mike Bostock](http://bost.ocks.org/mike/).
 
 Primarily conceived as a tool for designers and vis geeks, RAW aims at providing a missing link  between spreadsheet applications (e.g. Microsoft Excel, Apple Numbers, Google Docs, OpenRefine, …) and vector graphics editors (e.g. Adobe Illustrator, Inkscape, …).
 
-RAW works with [tabular data](https://en.wikipedia.org/wiki/Table_(information)) (e.g. spreadhseets and comma-separated values) as well as with copied-and-pasted texts from other applications (e.g. Microsoft Excel, TextWrangler, TextEdit, …). Based on the [SVG](http://en.wikipedia.org/wiki/Svg) format, visualizations can be easily edited with vector graphics applications for further refinements, or directly embedded into web pages.
+DATA LAB works with [tabular data](https://en.wikipedia.org/wiki/Table_(information)) (e.g. spreadhseets and comma-separated values) as well as with copied-and-pasted texts from other applications (e.g. Microsoft Excel, TextWrangler, TextEdit, …). Based on the [SVG](http://en.wikipedia.org/wiki/Svg) format, visualizations can be easily edited with vector graphics applications for further refinements, or directly embedded into web pages.
 
 Knowing the need of working with sensitive information, the data uploaded to RAW is processed only by the web browser: **no server-side operations or storages are performed** and no one will see, touch or copy your data!
 
-RAW is also highly customizable and extensible, accepting new custom layouts defined by users. For more information about how to add or edit layouts, see the [Developer Guide](https://github.com/densitydesign/raw/wiki/Developer-Guide).
+DATA LAB is also highly customizable and extensible, accepting new custom layouts defined by users. For more information about how to add or edit layouts, see the [Developer Guide](https://github.com/densitydesign/raw/wiki/Developer-Guide).
 
-- App page: [app.rawgraphs.io](http://app.rawgraphs.io)
-- Project official page: [rawgraphs.io](http://rawgraphs.io)
-- Documentation: [github.com/densitydesign/raw/wiki](https://github.com/densitydesign/raw/wiki)
-- Google group: [groups.google.com/forum/#!forum/densitydesign-raw](https://groups.google.com/forum/#!forum/densitydesign-raw)
-
-
-## Usage
-The easiest way to use RAW is by accessing the most updated version on the **[official app page](http://app.rawgraphs.io)**. However, RAW can also run locally on your machine: see the installation instructions below to know how.
-
-## Installation
-If you want to run your instance of RAW locally on your machine, be sure you have the following requirements installed.
-
-### Requirements
-
-- [git](http://git-scm.com/book/en/Getting-Started-Installing-Git)
-- [Bower](http://bower.io/#installing-bower)
-
-### Instructions
-
-Clone RAW from the command line:
 
 ``` sh
 $ git clone https://github.com/densitydesign/raw.git
